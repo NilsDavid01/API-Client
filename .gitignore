@@ -1,0 +1,25 @@
+## .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+*.cache
+*.pidb
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+## NuGet
+**/packages/
+*.nupkg
+.nuget/
+nuget.exe
