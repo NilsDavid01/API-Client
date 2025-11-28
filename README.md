@@ -53,9 +53,10 @@ Använder GitHub API: https://api.github.com/orgs/dotnet/repos
 - pushed_at → PushedAt
 
 ## Installation 
-git clone https://github.com/NilsDavid01/API-Client.git
-cd cd API-Client/
-dotnet build
-dotnet run
+```bash
+# git clone https://github.com/NilsDavid01/API-Client.git
+# cd cd API-Client/
+# dotnet build
+# dotnet run
 
 
