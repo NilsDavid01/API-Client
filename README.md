@@ -57,6 +57,6 @@ Använder GitHub API: https://api.github.com/orgs/dotnet/repos
 git clone https://github.com/NilsDavid01/API-Client.git
 cd API-Client/
 dotnet build
-otnet run
+dotnet run
 
 
