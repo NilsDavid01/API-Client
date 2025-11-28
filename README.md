@@ -43,14 +43,6 @@ dotnet run
 
 Använder GitHub API: https://api.github.com/orgs/dotnet/repos
 
-## Egenskaper
-
-- name → Name
-- description → Description
-- html_url → HtmlUrl
-- homepage → Homepage
-- watchers → Watchers
-- pushed_at → PushedAt
 
 ## Installation 
 ```bash
