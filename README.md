@@ -19,7 +19,6 @@ Detta projekt är en konsollapp som kommunicerar med GitHub API för att hämta 
 ## Struktur
 
 - Program.cs - Huvudprogram med HttpClientFactory
-- SimpleVersion.cs - Enklare version utan Dependency Injection
 - Repository.cs - Modellklass för repository data
 
 ## API Endpoint
