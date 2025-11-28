@@ -1,4 +1,4 @@
-# GitHub API Client (.NET 9)
+# GitHub API Client
 
 Detta projekt är en konsollapp som kommunicerar med GitHub API för att hämta information om .NET Foundations repositories.
 
@@ -51,3 +51,11 @@ Använder GitHub API: https://api.github.com/orgs/dotnet/repos
 - homepage → Homepage
 - watchers → Watchers
 - pushed_at → PushedAt
+
+## Installation 
+git clone https://github.com/NilsDavid01/API-Client.git
+cd cd API-Client/
+dotnet build
+dotnet run
+
+
